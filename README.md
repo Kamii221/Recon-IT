@@ -1,6 +1,6 @@
-#ITSOLERA   Offensive Security Tean Sigma - Task 1 
 
-# Recon-IT: A Comprehensive Reconnaissance Tool
+# ITSOLERA   Offensive Security Tean Sigma - Task 1 
+## Recon-IT: A Comprehensive Reconnaissance Tool
 
 Recon-IT is a powerful reconnaissance tool designed for penetration testing and security assessments. It combines both passive and active reconnaissance techniques to gather comprehensive information about target domains.
 

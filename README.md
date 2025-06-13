@@ -1,4 +1,4 @@
-# Recon-IT: A Comprehensive Reconnaissance Tool
+![image](https://github.com/user-attachments/assets/bc8bbcdd-7a4b-46b4-86f6-789f337c7571)# Recon-IT: A Comprehensive Reconnaissance Tool
 
 Recon-IT is a powerful reconnaissance tool designed for penetration testing and security assessments. It combines both passive and active reconnaissance techniques to gather comprehensive information about target domains.
 
@@ -36,6 +36,8 @@ Recon-IT is a powerful reconnaissance tool designed for penetration testing and 
 
 ### Quick Install
 ```bash
+git remote set url origin https://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@github.com/Kamii221/Recon-IT
+OR
 git clone https://github.com/Kamii221/Recon-IT
 cd recon-it
 pip install -r requirements.txt
@@ -103,7 +105,6 @@ docker run -v $(pwd)/reports:/app/reports recon-it example.com
 
 Reports are generated in the specified output directory (default: `reports/`) with the following naming convention:
 - Text report: `recon_report_example.com_YYYYMMDD_HHMMSS.txt`
-- HTML report: `recon_report_example.com_YYYYMMDD_HHMMSS.html`
 
 ## Contributing
 

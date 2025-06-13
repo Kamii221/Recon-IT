@@ -22,8 +22,7 @@ Recon-IT is a powerful reconnaissance tool designed for penetration testing and 
 - Technology detection (using Wappalyzer)
 
 ### Reporting
-- Generate detailed reports in TXT or HTML format
-- Include timestamps and IP resolution details
+- Generate detailed reports in TXT
 - Comprehensive summary of findings
 
 ## Installation

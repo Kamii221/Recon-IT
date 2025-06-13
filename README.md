@@ -36,7 +36,7 @@ Recon-IT is a powerful reconnaissance tool designed for penetration testing and 
 
 ### Quick Install
 ```bash
-gti clone https://github.com/Kamii221/Recon-IT
+git clone https://github.com/Kamii221/Recon-IT
 cd recon-it
 pip install -r requirements.txt
 ```
